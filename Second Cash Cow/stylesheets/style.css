@@ -1,0 +1,108 @@
+body {
+  margin-top: 30px;
+}
+.navbar-inverse .navbar-brand {
+  font-family: 'aharoni', cursive;
+  font-size: 36px;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  Background-color:purple;
+}
+.jumbotron {
+  font-family: 'arial', bold;
+  padding: 12px 12px 12px 12px;
+  border: thin
+}
+.btn-primary {
+  font-family: 'palatino linotype', cursive;
+  border-color: black;
+  background-color: #286090;
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+
+h1.title {
+  padding: 0 30px 30px 0;
+
+}
+
+h2 {
+  font-size: 22px;
+}
+.rating {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 4px;
+  vertical-align: middle;
+}
+.summary h2, .actors h2 {
+  margin-top: 0;
+}
+.actors li {
+  line-height: 24px;
+}
+.review {
+  margin-bottom: 30px;
+}
+#ad2 {
+  width: 200px;
+  height: 160px;
+}
+#ad3 {
+  width: 200px;
+  height: 160px;
+}
+#ad4 {
+  width: 200px;
+  height: 160px;
+}
+#ad5 {
+  width: 200px;
+  height: 160px;
+}
+#ad6 {
+  width: 200px;
+  height: 160px;
+}
+#ad7 {
+  width: 200px;
+  height: 160px;
+}
+#ad8 {
+  width: 200px;
+  height: 160px;
+}
+#ad9 {
+  width: 200px;
+  height: 160px;
+}
+#ad10 {
+  width: 200px;
+  height: 160px;
+}
+#ad11 {
+  width: 200px;
+  height: 160px;
+}
+#ad12 {
+  width: 350px;
+  height: 245px;
+}
+#ad13 {
+  width: 350px;
+  height: 245px;
+}
+#ad14 {
+  width: 350px;
+  height: 245px;
+}
+#ad15 {
+  width: 350px;
+  height: 245px;
+}
+#ad1 {
+  width: 380px;
+  height: 295px;
+}
